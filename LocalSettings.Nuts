@@ -1,0 +1,16 @@
+{
+	"Resolution": "1600x1024",
+	"FrameRate": "120FPS",
+	"ShadowQuality": "Low",
+	"ShaderQuality": "Low",
+	"EffectsQuality": "Low",
+	"MaxAnisotropy": "2X",
+	"PostProcessingQuality": "Medium",
+	"MasterVolume": "6.000000",
+	"MusicVolume": "4.000000",
+	"AudioSpeakerType": "Headphones",
+	"AudioChannelSetup": "Surround",
+	"WindowMode": "Fullscreen",
+	"TextureQuality": "Low",
+	"DetailLevel": "Low"
+}
