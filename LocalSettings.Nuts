@@ -1,16 +1,19 @@
 {
-	"Resolution": "1600x1024",
+	"WindowMode": "Fullscreen",
+	"Resolution": "1366x768",
+	"VSync": "Off",
 	"FrameRate": "120FPS",
+	"TextureQuality": "Low",
 	"ShadowQuality": "Low",
+	"DetailLevel": "Low",
+	"AntiAliasing": "FXAA",
 	"ShaderQuality": "Low",
 	"EffectsQuality": "Low",
-	"MaxAnisotropy": "2X",
-	"PostProcessingQuality": "Medium",
+	"MaxAnisotropy": "Off",
+	"PostProcessingQuality": "Low",
+	"ResolutionScale": "80.000000",
 	"MasterVolume": "6.000000",
 	"MusicVolume": "4.000000",
 	"AudioSpeakerType": "Headphones",
-	"AudioChannelSetup": "Surround",
-	"WindowMode": "Fullscreen",
-	"TextureQuality": "Low",
-	"DetailLevel": "Low"
+	"AudioChannelSetup": "Surround"
 }
