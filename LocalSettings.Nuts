@@ -1,0 +1,19 @@
+{
+	"WindowMode": "Fullscreen",
+	"Resolution": "1920x1080",
+	"VSync": "Off",
+	"FrameRate": "120FPS",
+	"TextureQuality": "Low",
+	"ShadowQuality": "Low",
+	"DetailLevel": "Low",
+	"AntiAliasing": "FXAA",
+	"ShaderQuality": "Low",
+	"EffectsQuality": "Low",
+	"MaxAnisotropy": "Off",
+	"PostProcessingQuality": "Low",
+	"ResolutionScale": "80.000000",
+	"MasterVolume": "6.000000",
+	"MusicVolume": "4.000000",
+	"AudioSpeakerType": "Headphones",
+	"AudioChannelSetup": "Surround"
+}
